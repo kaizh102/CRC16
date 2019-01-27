@@ -1,0 +1,2 @@
+# CRC16
+CCITT
